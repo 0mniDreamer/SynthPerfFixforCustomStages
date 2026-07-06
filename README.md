@@ -43,3 +43,8 @@ Drop `SynthPerfFix.dll` into your `Mods` folder (requires MelonLoader). On launc
 ## Building from source
 
 Set `GamePath` in `SynthPerfFix.csproj` to your Synth Riders install, then `dotnet build -c Release`. References only MelonLoader-bundled assemblies.
+
+## Acknowledgements
+
+Built on [MelonLoader](https://melonwiki.xyz/).
+Not affiliated with or endorsed by Kluge Interactive.
