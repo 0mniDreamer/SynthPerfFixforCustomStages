@@ -36,7 +36,7 @@ Drop `SynthPerfFix.dll` into your `Mods` folder (requires MelonLoader). On launc
 
 ## Compatibility
 
-- Both game branches (Unity 2021.3.45f2 and Unity 6000.3.x), MelonLoader 0.7.x, .NET 6 / IL2CPP.
+- Both game branches (Unity 2021.3.45f2 (not really needed in this build) and Unity 6000.3.x), MelonLoader 0.7.x, .NET 6 / IL2CPP.
 - Compatible with SynthStrobeRGB - Emulate relays whatever strobe colors are active, including modded ones.
 - Built-in (non-custom) stages have no receiver cameras and are unaffected.
 
